@@ -1,4 +1,4 @@
-# Welcome to Radiian-Arts-BioSource!
+# Welcome to Radiian-Arts-BioSource-Generator!
 
 ![Radiian Green](https://raw.githubusercontent.com/Radiian-Arts-Main/Radiian-Arts-Assets/master/Promotional/PNG/Github-logo-Main-Green.png)
 
